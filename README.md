@@ -2,6 +2,9 @@
 
 Este repositorio contiene el módulo **Biblioteca** desarrollado para un CRM existente.  
 **Importante:** el CRM base no fue desarrollado por mí; este módulo agrega la gestión de libros y préstamos dentro del sistema.
+En la empresa se detectó una falencia en uno de los beneficios que brindaban; prestamos de libros al personal interno.
+La gestión, administración y seguimiento de estos prestamos era a mano, dificultando la trazabilidad y manejo del correcto prestamos de libros por parte del encargado.
+Este módulo dió solución a este problema y añadió funcionalidades que potencian el manejo de este proceso.
 
 ---
 
